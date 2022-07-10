@@ -2,9 +2,9 @@
 This mini-script verifies the authenticity of the owner. If it doesn't find them, Windows will fall asleep.
 
 ## How to run
-1) Upload your photo to the "studied" folder.
-2) You should download [dependencies](https://github.com/ageitgey/face_recognition#installation) on python.
-3) Start [run.pyw](https://github.com/enotit/AutoLockWin/run.py).
+1) Upload your photo to the ["studied"](https://github.com/enotit/AutoLockWin/studied) folder.
+2) You should download [dependencies](https://github.com/ageitgey/face_recognition#installation-options) on python.
+3) Start [run.pyw](https://github.com/enotit/AutoLockWin/run.pyw).
 
 
 ## How it works
